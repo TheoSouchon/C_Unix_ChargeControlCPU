@@ -1,0 +1,30 @@
+cut: cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
+cut: the delimiter must be a single character
+Try 'cut --help' for more information.
